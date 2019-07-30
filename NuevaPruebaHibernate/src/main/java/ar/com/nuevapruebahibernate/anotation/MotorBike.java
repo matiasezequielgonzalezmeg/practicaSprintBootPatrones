@@ -16,4 +16,7 @@ public class MotorBike implements Vehiculos{
 		return "KJH 123 y color: " + color;
 	}
 
+	public String dameTipoCombustible() {
+		return "Nafta";
+	}
 }
