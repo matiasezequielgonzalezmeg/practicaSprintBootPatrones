@@ -6,6 +6,8 @@ public class MotorBike implements Vehiculos{
 	
 	private int ruedas;
 	
+	private String tipoasiento;
+	
 	public MotorBike() {
 		
 	}
