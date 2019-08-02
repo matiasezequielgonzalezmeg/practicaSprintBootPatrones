@@ -12,6 +12,8 @@ public class MotorBike implements Vehiculos{
 	
 	private String cambio1;
 	
+	private String cambio2;
+	
 	public MotorBike() {
 		
 	}
