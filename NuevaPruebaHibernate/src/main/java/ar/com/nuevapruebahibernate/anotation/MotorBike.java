@@ -10,6 +10,8 @@ public class MotorBike implements Vehiculos{
 	
 	private String tipoFreno;
 	
+	private String cambio1;
+	
 	public MotorBike() {
 		
 	}
